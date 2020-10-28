@@ -3,7 +3,7 @@ using Eto.Forms;
 
 namespace minimaleto.Mac
 {
-    class MainClass
+    internal static class MainClass
     {
         [STAThread]
         public static void Main(string[] args)

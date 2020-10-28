@@ -14,7 +14,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a0427c8-a235-4741-b233-38b604f80e93" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/minimaleto/minimaleto/MainForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/minimaleto/minimaleto/MainForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.minimaleto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.minimaleto/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minimaleto/minimaleto.Gtk/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/minimaleto/minimaleto.Gtk/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minimaleto/minimaleto.Mac/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/minimaleto/minimaleto.Mac/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minimaleto/minimaleto.Wpf/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/minimaleto/minimaleto.Wpf/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +31,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/minimaleto/minimaleto/MainForm.cs" />
+        <option value="$PROJECT_DIR$/minimaleto/minimaleto.Wpf/Program.cs" />
+        <option value="$PROJECT_DIR$/minimaleto/minimaleto.Mac/Program.cs" />
+        <option value="$PROJECT_DIR$/minimaleto/minimaleto.Gtk/Program.cs" />
       </list>
     </option>
   </component>
@@ -107,14 +113,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603879757125</updated>
-      <workItem from="1603879767661" duration="384000" />
+      <workItem from="1603879767661" duration="402000" />
+      <workItem from="1603880602997" duration="377000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -126,6 +133,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
