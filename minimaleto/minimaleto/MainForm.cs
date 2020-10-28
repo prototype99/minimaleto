@@ -7,7 +7,7 @@ namespace minimaleto
     {
         public MainForm()
         {
-            Title = "My Eto Form";
+            Title = "minimaleto";
             ClientSize = new Size(400, 350);
 
             Content = new StackLayout
