@@ -1,0 +1,13 @@
+{
+	"$schema": "http://json.schemastore.org/template",
+	"author": "Seirra Blake",
+	"classifications": [ "Eto", "GTK", "GUI", "Linux", "Mac", "Windows", "Windows.forms", "WPF" ],
+	"name": "C# minimal eto application",
+	"identity": "c.sharp.eto.minimal",
+	"shortName": "minimaleto",
+	"tags": {
+		"language": "C#"
+	},
+	"sourceName": "minimaleto",
+	"preferNameDirectory" : "true"
+}

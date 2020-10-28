@@ -13,7 +13,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a0427c8-a235-4741-b233-38b604f80e93" name="Default Changelist" comment="" />
+    <list default="true" id="3a0427c8-a235-4741-b233-38b604f80e93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.minimaleto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.minimaleto/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +52,7 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.minimaleto.Wpf">
+  <component name="RunManager" selected=".NET Project.minimaleto.Gtk">
     <configuration name="minimaleto.Gtk" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/minimaleto/minimaleto.Gtk/bin/Debug/netcoreapp3.1/minimaleto.Gtk.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -145,6 +147,7 @@
       <workItem from="1603884601817" duration="594000" />
       <workItem from="1603885210106" duration="193000" />
       <workItem from="1603885679117" duration="101000" />
+      <workItem from="1603885848016" duration="17000" />
     </task>
     <servers />
   </component>
@@ -181,22 +184,22 @@
       <screen x="0" y="32" width="1366" height="704" />
     </state>
     <state x="536" y="99" width="428" height="483" key="FileChooserDialogImpl/0.32.1366.704@0.32.1366.704" timestamp="1603884629082" />
-    <state width="1324" height="165" key="GridCell.Tab.0.bottom" timestamp="1603881630900">
+    <state width="1324" height="165" key="GridCell.Tab.0.bottom" timestamp="1603885864143">
       <screen x="0" y="32" width="1366" height="704" />
     </state>
-    <state width="1324" height="165" key="GridCell.Tab.0.bottom/0.32.1366.704@0.32.1366.704" timestamp="1603881630900" />
-    <state width="1324" height="165" key="GridCell.Tab.0.center" timestamp="1603881630900">
+    <state width="1324" height="165" key="GridCell.Tab.0.bottom/0.32.1366.704@0.32.1366.704" timestamp="1603885864143" />
+    <state width="1324" height="165" key="GridCell.Tab.0.center" timestamp="1603885864142">
       <screen x="0" y="32" width="1366" height="704" />
     </state>
-    <state width="1324" height="165" key="GridCell.Tab.0.center/0.32.1366.704@0.32.1366.704" timestamp="1603881630900" />
-    <state width="1324" height="165" key="GridCell.Tab.0.left" timestamp="1603881630900">
+    <state width="1324" height="165" key="GridCell.Tab.0.center/0.32.1366.704@0.32.1366.704" timestamp="1603885864142" />
+    <state width="1324" height="165" key="GridCell.Tab.0.left" timestamp="1603885864142">
       <screen x="0" y="32" width="1366" height="704" />
     </state>
-    <state width="1324" height="165" key="GridCell.Tab.0.left/0.32.1366.704@0.32.1366.704" timestamp="1603881630900" />
-    <state width="1324" height="165" key="GridCell.Tab.0.right" timestamp="1603881630900">
+    <state width="1324" height="165" key="GridCell.Tab.0.left/0.32.1366.704@0.32.1366.704" timestamp="1603885864142" />
+    <state width="1324" height="165" key="GridCell.Tab.0.right" timestamp="1603885864142">
       <screen x="0" y="32" width="1366" height="704" />
     </state>
-    <state width="1324" height="165" key="GridCell.Tab.0.right/0.32.1366.704@0.32.1366.704" timestamp="1603881630900" />
+    <state width="1324" height="165" key="GridCell.Tab.0.right/0.32.1366.704@0.32.1366.704" timestamp="1603885864142" />
     <state x="277" y="118" width="804" height="529" key="Rider.ProjectTemplateDialog.Size" timestamp="1603884526117">
       <screen x="0" y="32" width="1366" height="704" />
     </state>
