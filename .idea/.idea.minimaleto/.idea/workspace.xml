@@ -13,12 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a0427c8-a235-4741-b233-38b604f80e93" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.minimaleto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.minimaleto/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minimaleto/minimaleto.Gtk/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/minimaleto/minimaleto.Gtk/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minimaleto/minimaleto.Mac/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/minimaleto/minimaleto.Mac/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minimaleto/minimaleto.Wpf/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/minimaleto/minimaleto.Wpf/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="3a0427c8-a235-4741-b233-38b604f80e93" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,13 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/minimaleto/minimaleto.Wpf/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/minimaleto/minimaleto/MainForm.cs" />
-        <option value="$PROJECT_DIR$/minimaleto/minimaleto.Wpf/Program.cs" />
         <option value="$PROJECT_DIR$/minimaleto/minimaleto.Mac/Program.cs" />
         <option value="$PROJECT_DIR$/minimaleto/minimaleto.Gtk/Program.cs" />
+        <option value="$PROJECT_DIR$/minimaleto/minimaleto.Wpf/Program.cs" />
+        <option value="$PROJECT_DIR$/minimaleto/minimaleto.WinForms/Program.cs" />
+        <option value="$PROJECT_DIR$/minimaleto/minimaleto.Wpf/minimaleto.Wpf.csproj" />
       </list>
     </option>
   </component>
@@ -46,14 +46,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/minimaleto/minimaleto.Wpf/minimaleto.Wpf.csproj" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.minimaleto.Gtk">
+  <component name="RunManager" selected=".NET Project.minimaleto.Wpf">
     <configuration name="minimaleto.Gtk" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/minimaleto/minimaleto.Gtk/bin/Debug/netcoreapp3.1/minimaleto.Gtk.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/minimaleto/minimaleto.Gtk/bin/Debug/netcoreapp3.1" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -63,7 +64,7 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -86,10 +87,28 @@
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="minimaleto.Wpf" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+    <configuration name="minimaleto.WinForms" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/minimaleto/minimaleto.WinForms/bin/Debug/netcoreapp3.1/minimaleto.WinForms.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/minimaleto/minimaleto.WinForms/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/minimaleto/minimaleto.WinForms/minimaleto.WinForms.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="minimaleto.Wpf" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/minimaleto/minimaleto.Wpf/bin/Debug/netcoreapp3.1/minimaleto.Wpf.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/minimaleto/minimaleto.Wpf/bin/Debug/netcoreapp3.1" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -99,11 +118,17 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue=".NET Project.minimaleto.Gtk" />
+      <item itemvalue=".NET Project.minimaleto.Mac" />
+      <item itemvalue=".NET Project.minimaleto.WinForms" />
+      <item itemvalue=".NET Project.minimaleto.Wpf" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -114,7 +139,12 @@
       <option name="presentableId" value="Default" />
       <updated>1603879757125</updated>
       <workItem from="1603879767661" duration="402000" />
-      <workItem from="1603880602997" duration="377000" />
+      <workItem from="1603880602997" duration="1028000" />
+      <workItem from="1603881875121" duration="127000" />
+      <workItem from="1603884420358" duration="158000" />
+      <workItem from="1603884601817" duration="594000" />
+      <workItem from="1603885210106" duration="193000" />
+      <workItem from="1603885679117" duration="101000" />
     </task>
     <servers />
   </component>
@@ -137,5 +167,39 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="182" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603885319891">
+      <screen x="0" y="32" width="1366" height="704" />
+    </state>
+    <state x="182" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1366.704@0.32.1366.704" timestamp="1603885319891" />
+    <state x="428" y="231" width="501" height="303" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1603885355491">
+      <screen x="0" y="32" width="1366" height="704" />
+    </state>
+    <state x="428" y="231" width="501" height="303" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.32.1366.704@0.32.1366.704" timestamp="1603885355491" />
+    <state x="536" y="99" width="428" height="483" key="FileChooserDialogImpl" timestamp="1603884629082">
+      <screen x="0" y="32" width="1366" height="704" />
+    </state>
+    <state x="536" y="99" width="428" height="483" key="FileChooserDialogImpl/0.32.1366.704@0.32.1366.704" timestamp="1603884629082" />
+    <state width="1324" height="165" key="GridCell.Tab.0.bottom" timestamp="1603881630900">
+      <screen x="0" y="32" width="1366" height="704" />
+    </state>
+    <state width="1324" height="165" key="GridCell.Tab.0.bottom/0.32.1366.704@0.32.1366.704" timestamp="1603881630900" />
+    <state width="1324" height="165" key="GridCell.Tab.0.center" timestamp="1603881630900">
+      <screen x="0" y="32" width="1366" height="704" />
+    </state>
+    <state width="1324" height="165" key="GridCell.Tab.0.center/0.32.1366.704@0.32.1366.704" timestamp="1603881630900" />
+    <state width="1324" height="165" key="GridCell.Tab.0.left" timestamp="1603881630900">
+      <screen x="0" y="32" width="1366" height="704" />
+    </state>
+    <state width="1324" height="165" key="GridCell.Tab.0.left/0.32.1366.704@0.32.1366.704" timestamp="1603881630900" />
+    <state width="1324" height="165" key="GridCell.Tab.0.right" timestamp="1603881630900">
+      <screen x="0" y="32" width="1366" height="704" />
+    </state>
+    <state width="1324" height="165" key="GridCell.Tab.0.right/0.32.1366.704@0.32.1366.704" timestamp="1603881630900" />
+    <state x="277" y="118" width="804" height="529" key="Rider.ProjectTemplateDialog.Size" timestamp="1603884526117">
+      <screen x="0" y="32" width="1366" height="704" />
+    </state>
+    <state x="277" y="118" width="804" height="529" key="Rider.ProjectTemplateDialog.Size/0.32.1366.704@0.32.1366.704" timestamp="1603884526117" />
   </component>
 </project>
