@@ -1,4 +1,3 @@
-using System;
 using Eto.Forms;
 using Eto.Drawing;
 
@@ -50,7 +49,7 @@ namespace minimaleto
                 AboutItem = aboutCommand
             };
 
-            // create toolbar			
+            // create toolbar
             ToolBar = new ToolBar {Items = {clickMe}};
         }
     }
