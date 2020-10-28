@@ -1,0 +1,1 @@
+run `dotnet new -i [path to folder]` to install
