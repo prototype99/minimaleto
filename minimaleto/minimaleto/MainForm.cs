@@ -3,7 +3,7 @@ using Eto.Drawing;
 
 namespace minimaleto
 {
-    public partial class MainForm : Form
+    public sealed class MainForm : Form
     {
         public MainForm()
         {
